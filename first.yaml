@@ -1,4 +1,8 @@
 print"Hello World"
 #2
 #3
+<<<<<<< HEAD
 local repo
+=======
+"remote repo"
+>>>>>>> e1aaf97617e12858220ce1a958bf19057fa9e452
